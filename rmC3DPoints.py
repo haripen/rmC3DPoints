@@ -1,5 +1,5 @@
-# Harald Penasso Aug. 7, 2024
-# Functions and Cleaned by Chat GPT-4o
+# by Harald Penasso @ FH Campuswien, Favoritenstraße 226, 1100 Wien - Aug. 7, 2024
+# Acknowledging the support of GPT-4o
 
 from ezc3d import c3d
 import numpy as np
