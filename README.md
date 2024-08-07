@@ -11,6 +11,10 @@ Uses the ezc3d library to read and write C3D files and can be called from MATLAB
 ## Usage
 Make sure you have **ezc3d** and **numpy** installed.
 
+Check the ``virtual_markers'' list if you need to remove others and add the additional ones to the list.
+
+Edit the ``remove_also`` list if necessary.
+
 Call the script with the path to the C3D file as a command line argument:
 
 ```
