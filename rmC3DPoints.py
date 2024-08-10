@@ -1,5 +1,5 @@
-# by Harald Penasso @ FH Campuswien, Favoritenstraße 226, 1100 Wien - Aug. 7, 2024
-# Acknowledging the support of GPT-4o
+# by Harald Penasso @ (1) FH Campuswien, Favoritenstraße 226, 1100 Wien - Aug. 7, 2024
+# Acknowledgements: Sebastian Durstberger (1) for C3D structure insights and LLM GPT-4o for general code cleaning
 
 from ezc3d import c3d
 import numpy as np
