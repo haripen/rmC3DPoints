@@ -27,3 +27,13 @@ python patch_c3d.py C:\\path\\to\\walk.c3d
 or in Matlab use ``pyrunfile("rmC3DPoints.py 'path/to/your/file.c3d'")`` to run the file.
 
 This will create a new C3D file named walk_patched.c3d with the specified changes.
+
+--------
+by Harald Penasso (1) - Aug. 7, 2024
+
+
+**Acknowledgements**
+
+Sebastian Durstberger (1) for C3D structure insights and LLM GPT-4o for general code cleaning
+
+(1) FH Campuswien, Favoritenstraße 226, 1100 Wien
